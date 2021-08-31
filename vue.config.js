@@ -1,3 +1,5 @@
 module.exports = {
-  publicPath: '/myVueProject/'
+  publicPath: '/myVueProject/',
+  outputDir: 'build'
+
 }
