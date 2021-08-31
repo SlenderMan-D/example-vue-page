@@ -2,7 +2,7 @@
   <div class="hello">
     <h1>Testing publish function for vue example.</h1>
     <p>
-      
+      add add add add add 
     </p>
     
     
