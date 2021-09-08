@@ -1,5 +1,5 @@
 module.exports = {
-  publicPath: '/myVueProject/',
+  publicPath: '/sxc1340vuetest/',
   outputDir: 'build'
 
 }
